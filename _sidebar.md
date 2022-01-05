@@ -1,5 +1,10 @@
-- 快速开始
-  - [基础](/src/0001.md)
+- [基础](/src/0001.md)
+
+- class
+  - [PureComponent](/src/0014.md)
+- Hooks
+  - [快速入门](/src/0012.md)
+  - [学习路径](/src/0013.md)
 
 - 源码
   - 理念篇
