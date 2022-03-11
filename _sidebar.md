@@ -1,9 +1,9 @@
 - [基础](/src/0001.md)
-- [umijs](/src/0021.md)
 
 - 项目
   - [相关操作](/src/0015.md)
   - [项目搭建](/src/0017.md)
+  - [umijs](/src/0021.md)
 
 - class
   - [基础](/src/0014.md)
